@@ -63,9 +63,11 @@ __*cse*__
    ## insert urls
  [link](https://www.example.com)
 ## 
-[![image](https://github.com/swetha-2512/day2.git)]
+[![image]
+(https://github.com/swetha-2512/day2.git)]
 ## inserting vvideos
 
 
-[![videoname](https://img.youtube.com/)/vi/nCNqPgXDYhY/0.jpg]
+[!
+[videoname](https://img.youtube.com/)/vi/nCNqPgXDYhY/0.jpg]
 (https://youtu.be/nCNqPgXDYhY)
