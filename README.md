@@ -47,7 +47,7 @@ __*cse*__
 - jyo
 ## coding
 ```  PRINT("HELLOWORLD") 
-``` def fun()
+``` def fun():
      print("hell")
      ```
      ```
