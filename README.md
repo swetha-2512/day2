@@ -46,4 +46,9 @@ __*cse*__
     * laddu
 - jyo
 ## coding
-```  PRINT("HELLOWORLD") ```
+```  PRINT("HELLOWORLD") 
+``` def fun()
+     print("hell")
+     ```
+     ```
+   fun() ```
