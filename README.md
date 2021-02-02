@@ -21,14 +21,14 @@ __*cse*__
 
 ## blockquotes
 > This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.
-## nesteed blockquotes
+## nested blockquotes
 > hiii this github 
 >> uyduswd7uerb
 >>>  asdfglkjgsdjhwe
 ## orderdlist
 1. hello
-2. panipuri
-3. icecream
+3. panipuri
+2. icecream
 ## unorderdlist
 - coolcake
 - pizza
